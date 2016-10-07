@@ -2,7 +2,7 @@
   /*
     Simplegram
     A simple Telegram bot written with PHP. Good start for making own bots.
-    https://github.com/theel0ja/Mailgram
+    https://github.com/theel0ja/Simplegram
 
   */
 
