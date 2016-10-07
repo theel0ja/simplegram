@@ -1,13 +1,13 @@
 <!--
     Simplegram
     A simple Telegram bot written with PHP. Good start for making own bots.
-    https://github.com/theel0ja/Mailgram
+    https://github.com/theel0ja/Simplegram
 -->
 <!DOCTYPE html>
 <html lang="en">
 	<head>
 		<meta charset="utf-8" />
-		<meta name="viewport" content="width=device-width, initial-scale=1" /> <!-- vain mobiilisivut -->
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
 
 		<title>Simplegram Web Interface</title>
 
